@@ -8,19 +8,13 @@
 
 <img src="DAS.gif" align="right" width="400"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=programing-school&label=Profile%20views&color=0e75b6&style=flat" alt="programing-school" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=albaraa-ehab&label=Profile%20views&color=0e75b6&style=flat" alt="programing-school" /> </p>
 
-<p align="left"> <a href="https://twitter.com/program39300266" target="blank"><img src="https://img.shields.io/twitter/follow/Programing_Pro?logo=twitter&style=for-the-badge" alt="program39300266" /></a> </p>
+- 🌱 I’m currently learning **Designing**
 
-- 🌱 I’m currently learning **Next JS**
+- 💬 Ask me about **Designing**
 
-- 👨‍💻 All of my projects are available at [https://mohamed-ehab-portfolio.vercel.app/](https://mohamed-ehab-portfolio.vercel.app/)
-
-- 📝 I regularly write articles on [https://programing-school.hashnode.dev/](https://programing-school.hashnode.dev/)
-
-- 💬 Ask me about **React, Next JS, Html, CSS, JavaScript**
-
-- 📫 How to reach me **mohamed9919698@gmail.com**
+- 📫 How to reach me **albaraae95@gmail.com**
 
 - ⚡ Fun fact **I am funny**
 
