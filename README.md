@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Albaraa Ehab</h1>
 <h3 align="center">A passionate Designer</h3>
 
-<img src="standard (1).gif" align="right" width="400"/>
+<img src="DAS.gif" align="right" width="400"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=programing-school&label=Profile%20views&color=0e75b6&style=flat" alt="programing-school" /> </p>
 
